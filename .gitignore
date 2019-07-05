@@ -17,3 +17,6 @@ checkpoints_*/
 *.swp
 *.pb
 *.ckpt
+.vscode
+utils/bbox/bbox.c
+utils/bbox/nms.c
